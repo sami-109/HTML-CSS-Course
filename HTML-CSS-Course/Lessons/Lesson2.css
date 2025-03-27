@@ -1,0 +1,131 @@
+.Uber-Request-now{
+    color:white;
+    Background-color:black;
+    height:40px;
+    width:120px;
+    cursor:pointer;
+}
+
+.Amazon-Add-to-Cart{
+    color:black;
+    Background-color:rgb(255, 216, 20);
+    height:40px;
+    width:180px;
+    border:none;
+    Border-radius:20px;
+    margin-left:20px;
+    margin-right:20px;
+    cursor:pointer;
+}
+
+.Github-Sign-up{
+    color:white;
+    Background-color:rgb(46, 164, 79);
+    height:40px;
+    width:80px;
+    border:none;
+    Border-radius:5px;
+    margin-right:20px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.Bootstrap-Get-started{
+    color:white;
+    Background-color:rgb(121, 82, 179);
+    height:40px;
+    width:100px;
+    border:none;
+    Border-radius:5px;
+    margin-right:5px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.Bootstap-Download{
+    color:rgb(109, 117, 125);
+    Background-color:rgb(250, 250, 250);
+    height:40px;
+    width:100px;
+    border-width:1px;
+    border-color:rgb(121, 82, 179);
+    Border-radius:5px;
+    margin-right:20px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.Linkedin-Apply-on-company-website{
+    color:white;
+    Background-color:rgb(10, 102, 194);
+    height:40px;
+    width:200px;
+    border:none;
+    border-color:rgb(121, 82, 179);
+    Border-radius:20px;
+    margin-right:5px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.Linkedin-Save{
+    color:rgb(10, 102, 194);
+    Background-color:white;
+    height:40px;
+    width:70px;
+    border-width:1px;
+    border-color:rgb(10, 102, 194);
+    border-style:solid;
+    Border-radius:20px;
+    margin-right:20px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.Back-to-Amazon{
+    color:rgb(0, 113, 133);
+    display:block;
+    margin-top:50px;
+    margin-left:50px;
+}
+
+.Nike-Black_Running-Shoes{
+    font-weight: bold;
+    font-size:30px;
+    margin-left:50px;
+}
+
+.in-stock{
+    font-weight: bold;
+    color:rgb(0, 118, 0);
+    margin-left:50px;
+    font-size:20px;
+}
+
+.Free-delivery-tomorrow{
+    font-size:20px;
+    margin-left:50px;
+}
+
+.Add-to-Cart{
+    color:black;
+    Background-color:rgb(255, 216, 20);
+    height:40px;
+    width:140px;
+    border:none;
+    Border-radius:20px;
+    margin-left:50px;
+    cursor:pointer;
+}
+
+.Buy-now{
+    color:black;
+    Background-color:rgb(255, 164, 28);
+    height:40px;
+    width:140px;
+    border:none;
+    Border-radius:20px;
+    margin-left:15px;
+    margin-right:20px;
+    cursor:pointer;
+}

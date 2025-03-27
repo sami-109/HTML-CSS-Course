@@ -1,0 +1,49 @@
+body{
+    height:3000px;
+}
+
+.bottom-right{
+    position:fixed;
+    background-color:black;
+    color:white;
+    right:20px;
+    bottom:20px;
+    z-index: 2;
+}
+
+.right-sidebar{
+    color:white;
+    background-color:rgb(107, 180, 107);
+    width:100px;
+    right:0px;
+    bottom:0px;
+    top:0px;
+    position:fixed;
+}
+
+.overlay{
+    background-color:rgba(0,0,0,0.5);
+    position:fixed;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    z-index:3;
+}
+
+.container{
+    width:300px;
+    background-color:white;
+    border-radius:5px;
+    padding:15px;
+    font-family:arial;
+    line-height:30px;
+}
+
+.title{
+    font-weight: bold;
+    font-size:24px;
+}

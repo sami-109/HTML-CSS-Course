@@ -1,0 +1,174 @@
+.tahoma{
+    font-family: tahoma;
+    font-weight:bold;
+    font-size:27px;
+    margin-bottom:50px;
+}
+
+.arial{
+    font-family: arial;
+    font-weight:bold;
+    font-size:27px;
+    margin-bottom:0px;
+}
+
+.sales{
+    font-family: arial;
+    font-size:20px;
+    margin-bottom:50px;
+    color:red;
+    font-style: italic;
+    margin-top:10px;
+}
+
+.course{
+    font-family: verdana;
+    font-size:20px;
+    margin-bottom:5px;
+    font-weight:bold;
+    text-align: left;
+}
+
+.beginner-to-pro{
+    font-family: verdana;
+    font-size:17px;
+    margin-bottom:10px;
+    margin-top:0px;
+    color:grey;
+    text-align: left;
+}
+
+.needed-skills{
+    font-family: verdana;
+    width:280px;
+    text-align: left;
+}
+
+.get-started{
+    background-color:green;
+    border-radius: 5px;
+    border:none;
+    color:white;
+    padding:10px 20px 10px 20px;
+    margin-bottom:50px;
+    cursor:pointer;
+}
+
+.shopping-for-business{
+    text-align:center;
+    font-family: arial;
+    font-size:30px;
+    margin-top:10px;
+    font-weight:bold;
+}
+
+.apple-at-work{
+    text-align:center;
+    font-family: arial;
+}
+
+.learn-more{
+    text-align:center;
+    font-family: arial;
+    color:blue;
+    cursor:pointer;
+    margin-bottom:100px;
+}
+
+p{
+    font-family: arial;
+    text-align:center;
+}
+.new{
+    color:red;
+    margin-bottom:5px;
+}
+
+.Mackbook{
+    font-weight:bold;
+    font-size:20px;
+    margin-bottom:0px;
+    margin-top:0px;
+}
+
+.supercharged{
+    font-weight:bold;
+    font-size:35px;
+    margin-top:5px;
+    margin-bottom:0px;
+}
+
+.price{
+    margin-top:10px;
+}
+
+.Buy-now{
+    margin-left:720px;
+    border-radius:20px;
+    border:none;
+    color:white;
+    background-color: rgb(65, 123, 224);
+    height:35px;
+    width:55px;
+    font-weight:bold;
+    font-family: arial;
+    margin-bottom:100px;
+    cursor:pointer;
+}
+
+.amount{
+    font-size:30px;
+    text-align: left;
+    margin-bottom:0px;
+}
+
+.usd{
+    font-size:15px;
+    color:grey;
+}
+
+.profit{
+    text-align: left;
+    color:green;
+    margin-top:5px;
+    margin-bottom:0px;
+}
+
+.later-amount{
+    color:grey;
+    text-align: left;
+    margin-top:7px;
+    margin-bottom:100px;
+}
+
+.loss{
+    color:red;
+}
+
+.code-camp{
+    font-size:15px;
+    font-weight:bold;
+    text-align: left;
+    margin-bottom:0px;
+}
+
+.time{
+    color:grey;
+    font-weight:100;
+}
+
+.text{
+    width:490px;
+    text-align: left;
+    margin-top:5px;
+}
+
+.skills{
+    text-align: left;
+    margin-bottom:1000px;
+}
+
+.name{
+    color:rgb(78, 78, 251);
+    cursor:pointer;
+}

@@ -1,0 +1,102 @@
+.name {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .text{
+    width:200px;
+    display:inline-block;
+    vertical-align: middle;
+  }
+
+  .google{
+    width:300px;
+    margin-top:400px;
+  }
+
+  .search-google{
+    padding:10px 300px 10px 10px;
+    border-radius:20px;
+    border:none;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.15);
+    margin-bottom:30px;
+  }
+
+  div{
+    text-align: center;
+  }
+
+  .buttons{
+    border:none;
+    margin-right:10px;
+    padding:10px 10px 10px 10px;
+    cursor:pointer;
+  }
+
+  body{
+    height:10000px;
+  }
+
+  .first-name{
+    padding:10px 50px 10px 10px;
+    width:75px;
+    border-radius:5px;
+    border-style:solid;
+    border-color:grey;
+    border-width:1px;
+  }
+
+  .email{
+    margin-top:10px;
+    display:block;
+    padding:10px 103.5px 10px 10px;
+    border-radius:5px;
+    border-style:solid;
+    border-color:grey;
+    border-width:1px;
+    margin-bottom:10px;
+  }
+
+  .sign-up{
+    background-color:rgb(35, 114, 252);
+    padding:15px 115px 15px 115px;
+    color:white;
+    border:none;
+    border-radius:5px;
+    font-weight:bold;
+    cursor:pointer;
+    margin-bottom:100px;
+  }
+
+  .request-ride{
+    font-size:35px;
+    margin-bottom:20px;
+  }
+
+  .enter-location{
+    display:block;
+    border:none;
+    background-color:rgb(243, 242, 242);
+    margin-bottom:5px;
+    padding:10px 130px 10px 15px;
+  }
+
+  .request-now{
+    background-color:black;
+    color:white;
+    border:none;
+    padding:15px 25px 15px 25px;
+    margin-top:30px;
+    margin-right:10px;
+    cursor:pointer;
+  }
+
+  .schedule{
+    border:none;
+    padding:15px 25px 15px 25px;
+    margin-top:30px;
+    margin-right:10px;
+    cursor:pointer;
+  }
+
+

@@ -1,0 +1,18 @@
+.model{
+    font-family: montserrat;
+    font-weight:bold;
+    font-size:40px;
+    margin-left:90px;
+    margin-bottom:10px;
+}
+
+.order{
+    font-size:25px;
+    font-weight:400px;
+    margin-top:0px;
+}
+
+.delivery{
+    text-decoration:underline;
+    cursor:pointer;
+}
